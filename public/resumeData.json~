@@ -1,0 +1,113 @@
+{
+  "main": {
+    "name": "Manasses P. Silva Jr.",
+    "occupation": "Studying to be a Full-Stack Freelancer. Python and Javascript enthusiast",
+    "description": "Learning by project based learning methods - Javascript, React JS, Redux, Node.js, Firebase",
+    "image": "IG_Sonny.jpeg",
+    "bio": "My name is Manasses, I am a Mechanical Engineer and web developer enthusiast. Actually, I am participating at the 5-day React and Javascript Challenge, maintained and organized by Clever Programmer team, while also working for the chemical industry.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "manajunior1995@hotmail.com",
+    "phone": "+55 71 9 8697 8149",
+    "address": {
+      "street": "R. Professor Theocrito Batista",
+      "city": "Lauro de Freitas",
+      "state": "Bahia",
+      "zip": "42700-000"
+    },
+    "website": "Under development",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/manasses.junior.338",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/manasses-junior/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": ""
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/manajr",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "UNIME Faculty - FCT",
+        "degree": "B.S. degree in Mechanical Engineer",
+        "graduated": "December 2018",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "To be filled",
+        "title": "Freelance",
+        "years": "0",
+        "description": "Learning the Freelance life way."
+      }
+    ],
+    "skills": [
+	  {
+		"name": "Python",
+		"level": "40%"
+	  },
+	  {
+		"name": "Scikit-Learning",
+		"level": "30%"
+	  },
+      {
+        "name": "ReactJs",
+        "level": "30%"
+      },
+      {
+        "name": "HTML5",
+        "level": "25%"
+      },
+      {
+        "name": "Git",
+        "level": "10%"
+      },
+      {
+        "name": "Figma && Adobe XD",
+        "level": "5%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "5%"
+      },
+      {
+        "name": "CSS",
+        "level": "5%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Amazon Clone",
+        "category": "Amazon Clone built with FRRN (Firebase, Redux, ReactJS, NodeJS)",
+        "image": "",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+       "text": "Be the first to contact me and request my services.",
+		"user": "Future employer"
+      }
+    ]
+  }
+}
